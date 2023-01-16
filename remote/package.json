@@ -36,6 +36,6 @@
   },
   "optionalDependencies": {
     "@vscode/windows-registry": "1.0.6",
-    "windows-process-tree": "0.3.4"
+    "windows-process-tree": "https://github.com/microsoft/vscode-windows-process-tree.git#ddcb5b32987f1bc7fe48f47465521e598afed796"
   }
 }
